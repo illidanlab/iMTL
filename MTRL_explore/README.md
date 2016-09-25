@@ -1,3 +1,6 @@
+How to test
+=========================================
+
 Run ```toy_explore``` in this folder to get the results as follows, which verify the importance of encoding true knowledge in MTRL
 
     The real correlation matrix
