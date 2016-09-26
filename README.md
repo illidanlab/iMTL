@@ -1,6 +1,6 @@
 # iMTL
 
-The ever increasing availability of data has attracted a huge amount of machine learning models being built from the data to unleash its hidden power. One ubiquitous finding about these machine learning tasks is that: in most real-world applications the learning tasks are closely related to each other. Moreover, human experts in many domains can usually provide indispensable domain knowledge describing how these models are related. Maximally exploiting such knowledge is critical in building high quality machine learning models. This project is developing effective and efficient interactive algorithms and tools (including open source software) to enable knowledge discovery by integrating domain knowledge of task relatedness from human experts.
+Interactive Multi-Task Learning is an effective and efficient interactive framework to enable knowledge discovery by integrating domain knowledge of task relatedness from human experts.
 
 
 ## Publications: 
