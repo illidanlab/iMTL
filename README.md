@@ -4,12 +4,9 @@ Interactive Multi-Task Learning is an effective and efficient interactive framew
 
 
 ## Publications: 
-1. Multi-Task Feature Interaction Learning. </br>
-   Kaixiang Lin, Jianpeng Xu, Inci M. Baytas, Shuiwang Ji and Jiayu Zhou. </br>
-   **KDD** 2016. [[Paper]](https://kaixianglin.github.io/papers/2016KDD_MTIL20160924.pdf) </br>
-2. Interactive Multi-Task Relationship Learning. </br>
+1. Interactive Multi-Task Relationship Learning. </br>
    Kaixiang Lin and Jiayu Zhou</br> 
-   **ICDM** 2016.  [[Paper]](#)
+   **ICDM** 2016.  [[Paper]](#)[[Code]](https://github.com/illidanlab/iMTL/tree/master/iMTRL)
    
 ## Acknowledgement
 This project is based in part upon work supported by the National Science Foundation 
