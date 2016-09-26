@@ -1,6 +1,6 @@
 # iMTL
 
-Interactive Multi-Task Learning is an effective and efficient interactive framework to enable knowledge discovery by integrating domain knowledge of task relatedness from human experts.
+**i**nteractive **M**ulti-**T**ask **L**earning (iMTL) is an effective and efficient interactive framework to enable knowledge discovery by integrating domain knowledge of task relatedness from human experts.
 
 
 ## Publications: 
